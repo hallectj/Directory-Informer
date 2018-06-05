@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1522293569 source:c:\users\drago\desktop\code_blocks_folder\throughfiles\filestats\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<dirent.h>
+	<windows.h>
+	<sys/stat.h>
+	<errno.h>
+	<string.h>
+	<stdint.h>
+	<unistd.h>
+	<fcntl.h>
+	<time.h>
+
